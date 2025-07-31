@@ -1,0 +1,25 @@
+# # 📃 requirements.txt
+# pip install -r requirements.txt
+fastapi
+uvicorn
+python-multipart
+PyMuPDF
+together
+dotenv
+tensorflow
+keras
+librosa
+scikit-learn
+opencv-python-headless
+psutil
+moviepy==1.0.3
+pydub
+SpeechRecognition
+fer
+tf-keras     
+mediapipe
+deepface
+numpy
+protobuf==5.26.1
+opencv-python 
+pydantic[email]
