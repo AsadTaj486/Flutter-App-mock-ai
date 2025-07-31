@@ -23,3 +23,9 @@ numpy
 protobuf==5.26.1
 opencv-python 
 pydantic[email]
+gunicorn==23.0.0
+
+
+
+
+
